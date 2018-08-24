@@ -1,5 +1,5 @@
 # react-webpack
-localhost:http://localhost:8080
 Start npm :
-  " npm start"
+  " npm start" <br/>
+localhost:http://localhost:8080 <br/>
 Use console.log Chrome or other Browser dev tool
